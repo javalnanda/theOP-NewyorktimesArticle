@@ -1,0 +1,252 @@
+.container{
+	width: 98%;
+	margin-left: 2%;
+	box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.2);
+	display: inline-block;
+}
+
+article{
+	width: 85%;
+	margin: auto;
+}
+
+nav,header img{
+	margin-top: 10px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#authorinfo,#sociallist li,article h1{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#sociallist{
+	float: right;
+	vertical-align: middle;
+}
+
+#publishinfo_container
+{
+	display: inline-block;
+	vertical-align: middle;
+	width: 100%;
+}
+#header_nav_right{
+	float: right;
+	margin-right: 20px;
+	vertical-align: middle;
+}
+#header_nav_left{
+	margin-left: -20px;
+	float: left;
+}
+
+.menu_icon{
+	background-image: url(https://a1.nyt.com/assets/article/20170124-153439/images/sprite/sprite-no-repeat.svg);
+}
+
+header{
+	text-align: center;
+}
+
+#menu_section_icon{	
+	background-repeat: no-repeat;
+    background-position: -443px -214px;
+    width: 16px;
+    height: 16px;
+    margin-top: -1px;
+}
+
+#menu_home_icon{
+	background-repeat: no-repeat;
+    background-position: -51px -280px;
+    width: 16px;
+    height: 16px;
+}
+
+#menu_search_icon{
+	background-repeat: no-repeat;
+    background-position: -357px -214px;
+    width: 16px;
+    height: 16px;
+    margin-top: -1px;
+}
+
+#menu_setting_icon{
+	background-repeat: no-repeat;
+    background-position: -494px -214px;
+    width: 16px;
+    height: 16px;
+}
+.menu_icon,.menu_title{
+	display: inline-block;
+	vertical-align: middle;
+	text-align: left;
+}
+
+.menu_title{
+	margin-left: 2px;
+	clear: right;
+}
+
+.menu_button{
+	display: inline-block;
+	clear: left;
+	vertical-align: middle;
+	height: 30px;
+}
+
+.fb_share_icon{
+	background-repeat: no-repeat;
+    background-position: -33px -54px;
+    width: 25px;
+    height: 25px;
+}
+
+.twitter_share_icon{
+	background-repeat: no-repeat;
+    background-position: 0 -313px;
+    width: 25px;
+    height: 25px;
+}
+
+.email_share_icon{
+	background-repeat: no-repeat;
+    background-position: -131px -21px;
+    width: 25px;
+    height: 25px;
+}
+
+.all_share_icon{
+	background-repeat: no-repeat;
+    background-position: -243px -247px;
+    width: 25px;
+    height: 25px;
+}
+
+.bookmark_share_icon{
+	background-repeat: no-repeat;
+    background-position: -306px -214px;
+    width: 16px;
+    height: 25px;
+}
+
+#articlephoto,#inflation_image{
+	display: block;
+	width: 100%;
+	margin-top: 20px;
+}
+
+#articlephoto_info{
+	width: 50%;
+	display: block;
+}
+#imagecredit{
+	font-size: 10px;
+	color:#999;
+}
+
+#bigbang_container p,#bigbang_container h2{
+	margin-top: 20px;
+}
+#bigbang_detail{
+	width: 50%;
+	display: inline-block;
+	margin-left: 5%;
+}
+
+#recent_comments{
+	width: 40%;
+	display: inline-block;
+	margin-top: 100px;
+	margin-left: 4%;
+	vertical-align: top;
+}
+#recent_comments a{
+	text-decoration: none;
+	color: #326891;
+	font-weight: 700;
+	font-style: normal;
+}
+
+#recent_comments time{
+	color: #999;
+	font-size: 13px;
+
+}
+#recent_comments header{
+	text-align: left;
+}
+
+#commentview article{
+	margin-left: 0px;
+	margin-top: 5px;
+}
+
+#commentview article p{
+	margin: 5px 0;
+}
+.comment{
+	margin-bottom: 10px;
+}
+
+.commentor{
+	display: inline-block;
+}
+
+.comment p{
+	margin-top: 0px;
+}
+.comment-text{
+	margin-left: 0px;
+	margin-top: 2px;
+}
+.inflation-title{
+	text-align: left;
+}
+
+.inflation-theory{
+	width: 80%;
+	display: block;
+}
+.inflation-theory header{
+	text-align: left;
+}
+
+.universe{
+	position: absolute;
+	top: 24.8264%;
+    left: 0.0436%;
+    width: 228px;
+    display: inline-block;
+}
+
+.no-time{
+	position: absolute;
+	top: 24.8264%;
+    left: 25.0436%;
+    width: 228px;
+    display: inline-block;
+}
+
+.coffee{
+	position: absolute;
+	top: 24.8264%;
+    left: 50.0436%;
+    width: 228px;
+    display: inline-block;
+}
+
+.coffee-everywhere{
+	position: absolute;
+	top: 24.8264%;
+    left: 75.0436%;
+    width: 228px;
+    display: inline-block;	
+}
+#inflaction-graphics{
+	position: relative;
+	display: block;
+}
